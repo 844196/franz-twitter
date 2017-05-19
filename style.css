@@ -1,0 +1,15 @@
+.dashboard {
+  display: none !important;
+}
+
+.wrapper {
+  width: inherit !important;
+}
+
+.content-main {
+  width: inherit !important;
+}
+
+.promoted-tweet {
+  display: none !important;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Twitter",
+  "version": "1.0.0",
+  "description": "twitter",
+  "main": "index.js",
+  "author": "Masaya Takeda <844196@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://twitter.com/",
+    "serviceName": "Twitter",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
